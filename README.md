@@ -23,45 +23,7 @@ Tailwind CSS for styling
 
 React Icons for social media icons
 
-Installation
-Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-Install dependencies
-
-bash
-Copy
-Edit
-npm install
-Run the project
-
-bash
-Copy
-Edit
-npm start
-
-
-Project Structure
-
-/src
- ├── assets/
- │     └── portofolioimage.png
- ├── components/
- │     └── NavBar.jsx
- ├── Page.jsx
- └── index.js
-Page.jsx: Main portfolio page layout and content
-
-NavBar.jsx: Floating sticky footer navigation with social icons
-
-Customization
-Replace the profile image in /src/assets/portofolioimage.png
-
-Update social links inside NavBar.jsx
 
 Modify colors, fonts, and layout via Tailwind classes
 License
